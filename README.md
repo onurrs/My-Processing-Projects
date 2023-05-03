@@ -18,7 +18,7 @@ To run the code in this repository, follow these installation steps:
 1. Make sure you have Processing installed on your system. If not, you can download it from the official website: [processing.org](https://processing.org/download)
 2. Clone this repository to your local machine using the following command:
 
-   git clone https://github.com/your-username/My-Processing-Projects.git
+   git clone https://github.com/onurrs/My-Processing-Projects.git
 
 3. Open Processing and navigate to the cloned repository.
 
