@@ -32,6 +32,7 @@ To use the code in this repository, follow these steps:
 ## Examples
 Here are a few examples of the projects you can find in this repository:
 - **Sorting Algorithms**: Visualizations of various sorting algorithms such as Bubble Sort, Selection Sort, and Merge Sort. These visualizations demonstrate the step-by-step sorting process, making it easier to understand the algorithms.
+- **Function Visualizer**: Visualizations of functions on a coordinate plane.
 
 Feel free to explore the repository and try out different projects to gain a better understanding of the algorithms and their visual representations.
 
