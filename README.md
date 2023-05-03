@@ -7,7 +7,6 @@ Welcome to My-Processing-Projects repository! This repository contains my collec
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -35,9 +34,6 @@ Here are a few examples of the projects you can find in this repository:
 - **Function Visualizer**: Visualizations of functions on a coordinate plane.
 
 Feel free to explore the repository and try out different projects to gain a better understanding of the algorithms and their visual representations.
-
-## Contributing
-Contributions are welcome to enhance this repository and explore additional algorithmic problems or visualizations. If you would like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code for personal and commercial use.
