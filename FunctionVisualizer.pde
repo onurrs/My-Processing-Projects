@@ -21,7 +21,7 @@ void draw() {
   fill(255,0,0);
   
   
-  for (x = -width/2; x<=width; x+=interval) {
+  for (x = -width/2; x<=width/2; x+=interval) {
 
     f_x = (float)Math.pow(x/2, 2)+3*x-4;    //   <-------- Enter the function here
 
