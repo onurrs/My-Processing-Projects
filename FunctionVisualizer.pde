@@ -70,7 +70,7 @@ void createNumbers() {
   int yEnd = round(height/2 / planeMargin) * planeMargin;
   for (int i = yStart; i <= yEnd; i += planeMargin) {
     if (i!=0)
-      text(i / planeMargin, -2, i);    // creates ordinate numbers
+      text(i / planeMargin, -2, -i);    // creates ordinate numbers
   }
 
   textAlign(CENTER, TOP);
